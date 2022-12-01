@@ -10,4 +10,4 @@ fi
 cd /VCPlayerBot
 pip3 install -U -r requirements.txt
 echo "Starting Bot...."
-python3 main.py
+python3 clever.py & python3 main.py
