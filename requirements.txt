@@ -13,3 +13,5 @@ dnspython
 pytz
 apscheduler
 python-dotenv
+flask
+flask_restful
